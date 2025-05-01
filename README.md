@@ -16,12 +16,14 @@ The HR Analytics Dashboard is an interactive Tableau visualization designed to h
  Interactive Filters: Slice the data by department, education field, gender, etc.
 
 <h1> Tools & Technologies</h1>
+
 Tableau: For data visualization and interactive dashboard creation<br>
 
 Excel / CSV (assumed): For storing and preprocessing the HR data<br>
 
 
 <h1> Key Insights </h1>
+
 Departments with lower satisfaction levels also show high attrition rates.<br>
 
 Younger employees tend to switch jobs more frequently.<br>
@@ -41,6 +43,7 @@ Hover over charts to view detailed tooltips and insights.<br>
 Use dashboard actions for deeper drill-down analysis.
 
 <h2> Use Cases</h2>
+
 HR Policy Optimization<br>
 
 Retention Strategy Development<br>
