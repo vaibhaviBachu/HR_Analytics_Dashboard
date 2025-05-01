@@ -15,35 +15,36 @@ The HR Analytics Dashboard is an interactive Tableau visualization designed to h
 
  Interactive Filters: Slice the data by department, education field, gender, etc.
 
-<t1> Tools & Technologies</t1>
-Tableau: For data visualization and interactive dashboard creation
+<h1> Tools & Technologies</h1>
+Tableau: For data visualization and interactive dashboard creation<br>
 
-Excel / CSV (assumed): For storing and preprocessing the HR data
+Excel / CSV (assumed): For storing and preprocessing the HR data<br>
 
 
- Key Insights
-Departments with lower satisfaction levels also show high attrition rates.
+<h1> Key Insights </h1>
+Departments with lower satisfaction levels also show high attrition rates.<br>
 
-Younger employees tend to switch jobs more frequently.
+Younger employees tend to switch jobs more frequently.<br>
 
 Overtime hours and low work-life balance scores strongly correlate with higher attrition.
 
 
 
- How to Use
-Open the HR Analytics Dashboard.twbx file using Tableau Desktop.
+<h1> How to Use</h1>
 
-Use the filters at the top to explore data by department, gender, and education.
+Open the HR Analytics Dashboard.twbx file using Tableau Desktop.<br>
 
-Hover over charts to view detailed tooltips and insights.
+Use the filters at the top to explore data by department, gender, and education.<br>
+
+Hover over charts to view detailed tooltips and insights.<br>
 
 Use dashboard actions for deeper drill-down analysis.
 
-Use Cases
-HR Policy Optimization
+<h2> Use Cases</h2>
+HR Policy Optimization<br>
 
-Retention Strategy Development
+Retention Strategy Development<br>
 
-Talent Acquisition Planning
+Talent Acquisition Planning<br>
 
 Performance & Engagement Monitoring
