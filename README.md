@@ -1,5 +1,5 @@
 # HR_Analytics_Dashboard
-
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/bfe2c08a-005e-4a28-8b94-52143b248ac9" />
 Project Overview<br>
 The HR Analytics Dashboard is an interactive Tableau visualization designed to help HR teams and management make data-driven decisions by providing insights into employee demographics, attrition, job satisfaction, and performance metrics. This project aims to highlight key patterns and trends to support workforce planning and improve employee retention strategies.<br>
 
